@@ -1,6 +1,7 @@
 target/
 .vscode/
 .mvn/
+logs/
 !.mvn/wrapper/maven-wrapper.jar
 
 ### STS ###
